@@ -12,5 +12,5 @@ Bu layihə Excel-də olan satış və maliyyə göstəricilərini avtomatik emal
 - **Google GenAI SDK** (Gemini API)
 - **Power BI** (Interactive Dashboard)
 
-## 📈 Power BI Vizualizasiyası
-![Dashboard](./dashboard.png)
+<img width="1123" height="630" alt="dashboard" src="https://github.com/user-attachments/assets/49daac5a-d7a4-4a00-8a08-029f4acf5f66" />
+
